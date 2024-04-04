@@ -1,0 +1,46 @@
+.red{
+    color: red;
+}
+h2{
+    color: rgb(31, 236, 4);
+    font-style: italic;
+}
+.underline{
+    text-decoration: underline;
+    font-style: italic;
+}
+.linethrough{
+    text-decoration: line-through;
+    font-weight: bolder;
+}
+.bolder{
+   font-weight: bolder;
+   /* background-color: yellow; */
+}
+.letterspacing{
+    letter-spacing: 5px;
+    color: rgb(165,42,42);
+}
+.yellow{
+    background-color: yellow; 
+}
+.fontfamily{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(165,42,42); ;
+
+}
+.lighter{
+   font-size: x-small;
+}
+.fontw{
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(165,42,42); ;
+}
+a{
+    text-decoration: none; 
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
